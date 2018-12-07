@@ -1,11 +1,9 @@
 # lpmtController
-easy video mapping tool
+simple video mapping tool
 
-Processing application to command LPMT software
+Processing application to command LPMT software via OSC
 
-(openframeworks video mapping program)
-
-https://github.com/hvfrancesco/lpmt 
+lpmt download (need openframeworks) : https://github.com/hvfrancesco/lpmt 
 
 [![MyMappingWorks](graviteInsert.png)](https://vimeo.com/129981499 "Mapping Video Works")
 
